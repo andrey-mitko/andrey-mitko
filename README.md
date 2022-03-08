@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Crowdhaus
-- 🌱 I’m currently learning Python, Next.js
+- 🌱 I’m currently learning Python, React.js
 - 💬 Ask me about iOS / Web Development
-- 📫 How to reach me: LinkedIn [LinkedIn](https://www.linkedin.com/in/mitk8)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mitk8)
 <!--
 **andrey-mitko/andrey-mitko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
