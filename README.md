@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👀
 - 🔭 Currently working on Crowdhaus
 - 🌱 Currently learning Python, React.js
 - 💬 Ask me about iOS / Web Development
