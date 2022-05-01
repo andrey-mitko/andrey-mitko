@@ -3,6 +3,8 @@
 - 🌱 Currently learning Python, React.js
 - 💬 Ask me about iOS / Web Development
 - 📫 Reach me here: [LinkedIn](https://www.linkedin.com/in/mitk8)
+
+![](https://komarev.com/ghpvc/?username=andrey-mitko&color=52b788)
 <!--
 **andrey-mitko/andrey-mitko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
