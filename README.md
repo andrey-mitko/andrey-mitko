@@ -1,8 +1,8 @@
 
 ## Hi there! 👀
-- #### 🔭 Currently working as Software Developer
-- #### 💬 Ask me about Web / iOS Development
-- #### 📫 Reach me here: [LinkedIn](https://www.linkedin.com/in/mitk8)
+- ### 🔭 Currently working as Software Developer
+- ### 💬 Ask me about Web / iOS Development
+- ### 📫 Reach me here: [LinkedIn](https://www.linkedin.com/in/mitk8)
 
 ![](https://komarev.com/ghpvc/?username=andrey-mitko&color=52b788&style=for-the-badge)
 <!--
